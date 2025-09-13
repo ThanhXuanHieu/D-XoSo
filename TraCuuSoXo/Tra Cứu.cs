@@ -32,6 +32,13 @@ namespace TraCuuSoXo
             dataGridView1.Columns.Clear();
 
             dtpThoiGian.CustomFormat = "dd-MM-yyyy";
+
+            DateTime ngayDuocChon = dtpThoiGian.Value.Date;
+            DateTime ngayHomNay = DateTime.Now.Date;
+            if (ngayDuocChon > ngayHomNay )
+            {
+                MessageBox.Show("Ngày chọn không được lớn hơn ngày hiện tại.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             string url = string.Empty;
             if (cboCacMien.Text == "Miền Bắc")
             {
