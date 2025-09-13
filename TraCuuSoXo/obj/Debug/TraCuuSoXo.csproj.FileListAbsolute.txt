@@ -1,0 +1,15 @@
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\bin\Debug\TraCuuSoXo.exe.config
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\bin\Debug\TraCuuSoXo.exe
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\bin\Debug\TraCuuSoXo.pdb
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\obj\Debug\TraCuuSoXo.csproj.AssemblyReference.cache
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\obj\Debug\TraCuuSoXo.Properties.Resources.resources
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\obj\Debug\TraCuuSoXo.csproj.GenerateResource.cache
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\obj\Debug\TraCuuSoXo.csproj.CoreCompileInputs.cache
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\obj\Debug\TraCuuSoXo.exe
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\obj\Debug\TraCuuSoXo.pdb
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\obj\Debug\TraCuuSoXo.exe.config
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\bin\Debug\HtmlAgilityPack.dll
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\bin\Debug\HtmlAgilityPack.pdb
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\bin\Debug\HtmlAgilityPack.xml
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\obj\Debug\TraCuuSoXo.csproj.Up2Date
+D:\Bài tập\TraCuuSoXo\TraCuuSoXo\obj\Debug\TraCuuSoXo.TraCuu.resources

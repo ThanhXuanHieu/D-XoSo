@@ -1,0 +1,17 @@
+D:\Bài tập\TraCuuSoXo\Test\bin\Debug\net8.0\Test.exe
+D:\Bài tập\TraCuuSoXo\Test\bin\Debug\net8.0\Test.deps.json
+D:\Bài tập\TraCuuSoXo\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+D:\Bài tập\TraCuuSoXo\Test\bin\Debug\net8.0\Test.dll
+D:\Bài tập\TraCuuSoXo\Test\bin\Debug\net8.0\Test.pdb
+D:\Bài tập\TraCuuSoXo\Test\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\Bài tập\TraCuuSoXo\Test\obj\Debug\net8.0\Test.csproj.AssemblyReference.cache
+D:\Bài tập\TraCuuSoXo\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài tập\TraCuuSoXo\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+D:\Bài tập\TraCuuSoXo\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+D:\Bài tập\TraCuuSoXo\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+D:\Bài tập\TraCuuSoXo\Test\obj\Debug\net8.0\Test.csproj.Up2Date
+D:\Bài tập\TraCuuSoXo\Test\obj\Debug\net8.0\Test.dll
+D:\Bài tập\TraCuuSoXo\Test\obj\Debug\net8.0\refint\Test.dll
+D:\Bài tập\TraCuuSoXo\Test\obj\Debug\net8.0\Test.pdb
+D:\Bài tập\TraCuuSoXo\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+D:\Bài tập\TraCuuSoXo\Test\obj\Debug\net8.0\ref\Test.dll
