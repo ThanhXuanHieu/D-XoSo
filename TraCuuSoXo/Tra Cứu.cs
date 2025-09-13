@@ -38,6 +38,7 @@ namespace TraCuuSoXo
             if (ngayDuocChon > ngayHomNay )
             {
                 MessageBox.Show("Ngày chọn không được lớn hơn ngày hiện tại.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                this.Close();
             }
             string url = string.Empty;
             if (cboCacMien.Text == "Miền Bắc")
